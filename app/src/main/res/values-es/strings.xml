@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MercadoLibre</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_username">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"El nombre de usuario o contraseña es incorrecto "</string>
+    <string name="btnEnter">"Ingresar"</string>
+    <string name="aboutus">"Acerca de"</string>
+    <string name="logOut">"Salir"</string>
+    <string name="aboutML">Mercado Libre es una empresa multinacional argentina dedicada al comercio electrónico en Iberoamérica, con sede en Montevideo, Uruguay.</string>
+    <string name="back">"Volver"</string>
+    <string name="name">"Nombre:"</string>
+    <string name="email">"Correo:"</string>
+    <string name="phone">"Teléfono:"</string>
+    <string name="send">"Enviar"</string>
+    <string name="call">"Llamar"</string>
+    <string name="programmerdata">Datos del programador</string>
+</resources>
